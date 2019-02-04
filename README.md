@@ -21,7 +21,7 @@ BONUS PART:
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/mandelbrot.png" data-canonical-src="mandelbrot" width="400"/></td>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/julia.png" data-canonical-src="julia" width="400"/></td> 
+    <td><img src="https://i.imgflip.com/2staxz.gif"/>" data-canonical-src="julia" width="400"/></td> 
   </tr>
   <tr>
     <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/burning_ship.png" data-canonical-src="burning_ship" width="400"/></td>
