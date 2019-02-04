@@ -14,14 +14,14 @@ usage: ./fractol [mandelbrot/julia/burning_ship/flower/beetle/celtic/iricorn/hea
 
 BONUS PART:
 - additional fractals;
-- moveng with arrows;
+- moving with arrows;
 - color range shift;
 - multi-threading implementation.
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/mandelbrot.png" data-canonical-src="mandelbrot" width="250"/></td>
-    <td><img src="https://i.imgflip.com/2staxz.gif" data-canonical-src="julia" width="250"/></td> 
+   <td><img src="https://i.imgflip.com/2staxz.gif" data-canonical-src="julia" width="250"/></td> 
+   <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/mandelbrot.png" data-canonical-src="mandelbrot" width="250"/></td>
    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/iricorn.png" data-canonical-src="iricorn" width="250"/></td>
   </tr>
   <tr>
