@@ -20,19 +20,19 @@ BONUS PART:
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/mandelbrot.png" data-canonical-src="mandelbrot" width="400"/></td>
-    <td><img src="https://i.imgflip.com/2staxz.gif"/>" data-canonical-src="julia" width="400"/></td> 
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/mandelbrot.png" data-canonical-src="mandelbrot" width="250"/></td>
+    <td><img src="https://i.imgflip.com/2staxz.gif" data-canonical-src="julia" width="250"/></td> 
   </tr>
   <tr>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/burning_ship.png" data-canonical-src="burning_ship" width="400"/></td>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/flower.png" data-canonical-src="flower" width="400"/></td> 
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/burning_ship.png" data-canonical-src="burning_ship" width="250"/></td>
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/flower.png" data-canonical-src="flower" width="250"/></td> 
   </tr>
     <tr>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/beetle.png" data-canonical-src="beetle" width="400"/></td>
-     <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/celtic.png" data-canonical-src="celtic" width="400"/></td> 
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/beetle.png" data-canonical-src="beetle" width="250"/></td>
+     <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/celtic.png" data-canonical-src="celtic" width="250"/></td> 
   </tr>
   <tr>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/iricorn.png" data-canonical-src="iricorn" width="400"/></td>
-    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/heart.png" data-canonical-src="heart" width="400"/></td>
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/iricorn.png" data-canonical-src="iricorn" width="250"/></td>
+    <td><img src="https://github.com/nkuchyna/Fractol/blob/master/screenshots/heart.png" data-canonical-src="heart" width="250"/></td>
   </tr>
 </table>
